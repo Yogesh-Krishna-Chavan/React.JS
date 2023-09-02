@@ -1,0 +1,26 @@
+{
+  "name": "namaste_react_practice",
+  "version": "1.0.0",
+  "description": "This is react app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yogesh-Krishna-Chavan/React.JS.git"
+  },
+  "keywords": [
+    "react",
+    "node"
+  ],
+  "author": "Yogesh Chavan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yogesh-Krishna-Chavan/React.JS/issues"
+  },
+  "homepage": "https://github.com/Yogesh-Krishna-Chavan/React.JS#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
