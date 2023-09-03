@@ -2,7 +2,6 @@
   "name": "namaste_react_practice",
   "version": "1.0.0",
   "description": "This is react app",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -21,6 +20,14 @@
   },
   "homepage": "https://github.com/Yogesh-Krishna-Chavan/React.JS#readme",
   "devDependencies": {
-    "parcel": "^2.9.3"
-  }
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    "last 2 version"
+  ]
 }
